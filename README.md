@@ -1,5 +1,5 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0;">Opensea Bidding &amp; Offer Bot.</h1>
+<h1 style="color: #5e9ca0;">Opensea Bidding &amp; Offer Bot by NFT Handshake.</h1>
 <h2 style="color: #2e6c80;">The Most Powerful bidding bot built to date.</h2>
 <p>Considering bidding on listings on Opensea? Maybe you are already bidding and have been using a python/node.js setup on your desktop?<br /><br />Imagine bidding on NFTs from a secure web-based dashboard.</p>
 <ul>
