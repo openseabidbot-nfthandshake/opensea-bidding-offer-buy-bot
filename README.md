@@ -40,5 +40,24 @@ Setting up new bids on Opensea is very easy as well. We have prioritized making 
 <p>Whenever you subscribe to NFT Handshake, we deploy a dedicated server only for you. This comes with premium proxies as well. There is zero connection between your server and any other subscribers. There is no database sharing or other features that may leave you vulnerable. Your dashboard is deployed via a unique subdomain and URL string only shared with you. There is a possibility to IP lock your dashboard to any IP of your desire as well.Your seed phrase is hashed using the highest level of encryption and is not decrypted once submitted. You are not able to see your own phrase nor is anyone else.</p>
 <p><br />We believe this approach is more secure than downloading an exe. file or other software that may harm your local setup and infect it with vira, backdoors or other security risks.<br /><br /><br /></p>
 <p>&nbsp;</p>
-<p><strong>Roadmap</strong></p>
-<p>We are excited to share with you the road map for our tool. This is not limited to:<strong><br /><br /></strong></p>
+<h2><strong>Roadmap for NFT Handshake</strong></h2>
+<p>We are excited to share with you the road map for our tool. This is not limited to:<strong><br /></strong></p>
+<ul style="list-style-type: circle;">
+<li>Min/max profit bidding. Simply add your minimum profit in eth and your maximum and the bot will bid accordingly.</li>
+<li>Automatically get notified when you win an NFT via Telegram, Discord or Whatsapp/email.</li>
+<li>Advanced NFT analytics in give you an edge in bidding. (Liquidity, trends forecasting)</li>
+<li>List your NFT via your dashboard for sale.</li>
+<li>integrated Profit calculator in bidding module</li>
+<li>Overview stats for your dashboard keeping track of total profit, total flips etc.&nbsp;</li>
+<li>Automatically list your NFT for sale at floor price</li>
+<li>Get notified when any of your active bids are unprofitable, should it be accepted</li>
+<li>Quick swap from weth to eth, and vice versa.</li>
+<li>integration with Looksrare, Coinbase NFT and other platforms.</li>
+<li>Browser-based bid bot to run when API is down</li>
+<li>Counter bidding monitoring (outbid other bidders instantly)</li>
+<li>Permanently based collection bidding (setup bids to run continuously)</li>
+<li>Mobile integration. Access your dashboard from your mobile and start bids, sell NFTs directly.</li>
+<li>AI-powered automation bidding such as:(whitelist collections and bot will spread bids according to highest returns)</li>
+</ul>
+<p>And much much more!<br /><br /></p>
+<p>&nbsp;</p>
