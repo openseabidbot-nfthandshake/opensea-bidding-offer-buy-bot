@@ -1,5 +1,5 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0;">Opensea Bidding &amp; Offer Bot by NFT Handshake.</h1>
+<h1 style="color: #5e9ca0;">Opensea Bidding &amp; Offer Bot.</h1>
 <h2 style="color: #2e6c80;">The Most Powerful bidding bot built to date.</h2>
 <p>Considering bidding on listings on Opensea? Maybe you are already bidding and have been using a python/node.js setup on your desktop?<br /><br />Imagine bidding on NFTs from a secure web-based dashboard.</p>
 <ul>
@@ -26,6 +26,19 @@
 <p>Here is a screenshot of your "collection overview":</p>
 <p><a href="https://ibb.co/Brj8gVJ"><img src="https://i.ibb.co/4YMBjZL/nft-handshake-collections.png" alt="nft-handshake-collections" border="0" /></a></p>
 <p>From this overview, you can scrape, or rescrape tokens, rarity(from rarity.tools) floor prices etc.<br /><br />Once you are ready to start bidding you can head over to the bidding dashboard:<br /><br /></p>
+<p><a href="https://ibb.co/dGNDz74"><img src="https://i.ibb.co/Pw2gftG/launch-new-bids-NFT-trader.png" alt="launch-new-bids-NFT-trader" border="0" /></a></p>
+<p>In the case above, 4 threads were launched which gives you around 100 bids per minute.</p>
+Setting up new bids on Opensea is very easy as well. We have prioritized making bidding easy and preventing you from mistaking mistakes:
+<a href="https://ibb.co/mqyPJc8"><img src="https://i.ibb.co/85xQM7c/setting-up-bids-nft-handshake.png" alt="setting-up-bids-nft-handshake" border="0" /></a>
+<p>You can bid by Rarity in our "Gold Tier" and "by token" in all our tiers.&nbsp;<br /><br /><br />As you are bidding, you can easily see what the bot is doing in our "real time" log option or you can click a single button and relaunch the bid as is, or change your settings:<br /><br /></p>
+<p><a href="https://ibb.co/ctm5YCk"><img src="https://i.ibb.co/hHq5YZL/logs-and-rebidding-for-opensea-bot-nfthandshake.png" alt="logs-and-rebidding-for-opensea-bot-nfthandshake" border="0" /></a></p>
+<h2><strong>We have 3 pricing tiers for our NFT bidding software:</strong></h2>
+<p>Bronze, Silver &amp; Gold</p>
+<p>Bronze is a great starting tier with plenty of power to get you going, while Silver and Gold gives you a lot more scale and rarity-based bidding as well.</p>
+<p>Check out our Discord for more information about pricing<br /><br /></p>
+<h2>Security:</h2>
+<p>Whenever you subscribe to NFT Handshake, we deploy a dedicated server only for you. This comes with premium proxies as well. There is zero connection between your server and any other subscribers. There is no database sharing or other features that may leave you vulnerable. Your dashboard is deployed via a unique subdomain and URL string only shared with you. There is a possibility to IP lock your dashboard to any IP of your desire as well.Your seed phrase is hashed using the highest level of encryption and is not decrypted once submitted. You are not able to see your own phrase nor is anyone else.</p>
+<p><br />We believe this approach is more secure than downloading an exe. file or other software that may harm your local setup and infect it with vira, backdoors or other security risks.<br /><br /><br /></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>Roadmap</strong></p>
+<p>We are excited to share with you the road map for our tool. This is not limited to:<strong><br /><br /></strong></p>
