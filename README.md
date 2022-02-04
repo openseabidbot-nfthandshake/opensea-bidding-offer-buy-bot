@@ -38,8 +38,7 @@ Setting up new bids on Opensea is very easy as well. We have prioritized making 
 <p>Check out our Discord for more information about pricing<br /><br /></p>
 <h2>Security:</h2>
 <p>Whenever you subscribe to NFT Handshake, we deploy a dedicated server only for you. This comes with premium proxies as well. There is zero connection between your server and any other subscribers. There is no database sharing or other features that may leave you vulnerable. Your dashboard is deployed via a unique subdomain and URL string only shared with you. There is a possibility to IP lock your dashboard to any IP of your desire as well.Your seed phrase is hashed using the highest level of encryption and is not decrypted once submitted. You are not able to see your own phrase nor is anyone else.</p>
-<p><br />We believe this approach is more secure than downloading an exe. file or other software that may harm your local setup and infect it with vira, backdoors or other security risks.<br /><br /><br /></p>
-<p>&nbsp;</p>
+<p><br />We believe this approach is more secure than downloading an exe. file or other software that may harm your local setup and infect it with vira, backdoors or other security risks.</p>
 <h2><strong>Roadmap for NFT Handshake</strong></h2>
 <p>We are excited to share with you the road map for our tool. This is not limited to:<strong><br /></strong></p>
 <ul style="list-style-type: circle;">
