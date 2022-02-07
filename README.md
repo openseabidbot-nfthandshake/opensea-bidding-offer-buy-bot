@@ -22,7 +22,7 @@
 <li>Security features to help prevent you from making mistakes while bidding</li>
 </ul>
 <p><strong>Watch the full showcase of our software below:</strong></p>
-<p><a href="https://www.youtube.com/watch?v=pS1H0JWa1vM/"><img src="https://i.ibb.co/fqYZPZ8/youtube-video-image.png" alt="youtube-video-image" border="0" /></a></p>
+<p><a title="nft opensea bidding bot" href="https://www.youtube.com/watch?v=pS1H0JWa1vM/" target="_blank"><img src="https://i.ibb.co/fqYZPZ8/youtube-video-image.png" alt="youtube-video-image" border="0" /></a></p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>Once you have subscribed to one our services, you will presented with your own login.</p>
 <p>Here is a screenshot of your "collection overview":</p>
