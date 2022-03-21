@@ -12,7 +12,7 @@
 </ul>
 <p>NFT Handshake is powered by secure dedicated servers and proxies. This gives us the ability to create an environment for you with no limitations.</p>
 <p><strong>Your server runs in the cloud 24/7 even when you are busy doing other things.</strong></p>
-<h3><strong>Get Access via Discord</strong></h3>
+<h3><strong>Get Access via Discord - open a ticket buy clicking "buy access here"</strong></h3>
 <p><a href="https://discord.gg/rHhbjvJH" target="_blank">https://discord.gg/rHhbjvJH</a><br /><a href="https://twitter.com/NFT_Handshake" target="_blank">https://twitter.com/NFT_Handshake</a></p>
 <h2 style="color: #2e6c80;">Features already included:</h2>
 <ul>
