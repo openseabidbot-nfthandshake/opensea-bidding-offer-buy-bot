@@ -42,6 +42,11 @@ Setting up new bids on Opensea is very easy as well. We have prioritized making 
 <h2><strong>We have 1 premium plan for our NFT bidding software:</strong></h2>
 <p>The price is 0.85eth a month or 5.50 eth lifetime</p>
 <p>Check out our Discord for more information about pricing<br /><br /></p>
+<h2>What are our customers saying?</h2>
+<a href="https://ibb.co/kMK5knh"><img src="https://i.ibb.co/25qWm2j/reviews-sokol-and-sethking.png" alt="reviews-sokol-and-sethking" border="0"></a>
+<a href="https://ibb.co/jrBHHMt"><img src="https://i.ibb.co/3CGkkNK/lasse2-and-matt.png" alt="lasse2-and-matt" border="0"></a>
+<a href="https://ibb.co/vD4tVj6"><img src="https://i.ibb.co/1bGS7mt/malf-and-cuny-review.png" alt="malf-and-cuny-review" border="0"></a>
+<a href="https://ibb.co/M2L7b3z"><img src="https://i.ibb.co/4mxpc5b/sensey-review.png" alt="sensey-review" border="0"></a>
 <h2>Security:</h2>
 <p>Whenever you subscribe to NFT Handshake, we deploy a dedicated server only for you. This comes with premium proxies as well. There is zero connection between your server and any other subscribers. There is no database sharing or other features that may leave you vulnerable. Your dashboard is deployed via a unique subdomain and URL string only shared with you. There is a possibility to IP lock your dashboard to any IP of your desire as well.Your seed phrase is hashed using the highest level of encryption and is not decrypted once submitted. You are not able to see your own phrase nor is anyone else.</p>
 <p><br />We believe this approach is more secure than downloading an exe. file or other software that may harm your local setup and infect it with vira, backdoors or other security risks.</p>
