@@ -1,4 +1,3 @@
-<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 style="color: #5e9ca0;">Opensea Bidding &amp; Offer Bot.</h1>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/syY4pgP/nft-handshake.png" alt="nft-handshake" border="0"></a>
 <h2 style="color: #2e6c80;">The Most Powerful bidding bot built to date.</h2>
