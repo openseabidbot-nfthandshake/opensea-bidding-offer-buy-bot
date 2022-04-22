@@ -16,21 +16,22 @@
 <h2 style="color: #2e6c80;">Features already included:</h2>
 <ul>
 <li style="clear: both;">All Bid functions: outbid, skip, fixed price, bid ranges</li>
-<li>Your own online dashboard<br />Up to 12 threads(240 bids/min)</li>
+<li>Your own online dashboard<br />4 threads(80-100 bids/min - possible to buy bigger plans)</li>
 <li style="clear: both;">Custom bid expirations</li>
 <li style="clear: both;">Unlimited wallet support</li>
-w<li style="clear: both;">Mobile integration (bid from your phone)</li>
+<li style="clear: both;">Mobile integration (bid from your phone)</li>
 <li style="clear: both;">Queue bidding system</li>
 <li style="clear: both;">Bid on unlimited collections simultaneously</li>
 <li style="clear: both;">Trait based bidding</li>
-<li style="clear: both;">Queue bidding system</li>
 <li>Rebid functionality (instantly relaunch bids)</li>
+<li>Automated notification system for winning/selling any NFT</li>
 <li>Rarity based bidding based on Rarity.tools and Rarity.sniper!(Such as top 100 only)</li>
 <li>Access to custom rarity floor analytics</li>
+<li>Dark mode interface</li>
 <li>Security features to help prevent you from making mistakes while bidding</li>
 </ul>
-<p><strong>Watch the full showcase of our software below:</strong></p>
-<p><a title="nft opensea bidding bot" href="https://www.youtube.com/watch?v=jAGSMHVsR9s&t" target="_blank"><img src="https://i.ibb.co/fqYZPZ8/youtube-video-image.png" alt="youtube-video-image" border="0" /></a></p>
+<p><strong>Watch ALL of our videos and full showcase of our software below:</strong></p>
+<p><a title="nft opensea bidding bot" href="https://www.youtube.com/channel/UCAuL5prUp-lcdyYBX7h2Ung/videos" target="_blank"><img src="https://i.ibb.co/fqYZPZ8/youtube-video-image.png" alt="youtube-video-image" border="0" /></a></p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>Once you have subscribed to one our services, you will presented with your own login.</p>
 <p>Here is a screenshot of your "collection overview":</p>
