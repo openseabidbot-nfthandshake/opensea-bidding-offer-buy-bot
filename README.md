@@ -45,6 +45,8 @@ Setting up new bids on Opensea is very easy as well. We have prioritized making 
 <p><a href="https://ibb.co/ctm5YCk"><img src="https://i.ibb.co/hHq5YZL/logs-and-rebidding-for-opensea-bot-nfthandshake.png" alt="logs-and-rebidding-for-opensea-bot-nfthandshake" border="0" /></a></p>
 <h2><strong>We have 1 premium plan for our NFT bidding software:</strong></h2>
 <p>The price is 0.85eth a month or 5.50 eth lifetime</p>
+<p>You can also buy a weekly pass for 0.3 eth</p>
+<p>Simply click "Buy access here" to open a ticket and get access</p>
 <p>Check out our Discord for more information about pricing<br /><br /></p>
 <h2>What are our customers saying?</h2>
 <a href="https://ibb.co/kMK5knh"><img src="https://i.ibb.co/25qWm2j/reviews-sokol-and-sethking.png" alt="reviews-sokol-and-sethking" border="0"></a>
@@ -61,19 +63,20 @@ Below you will find examples of flips our customers and myself have made. Keep i
 <p>We are excited to share with you the road map for our tool. This is not limited to:<strong><br /></strong></p>
 <ul style="list-style-type: circle;">
 <li>Min/max profit bidding. Simply add your minimum profit in eth and your maximum and the bot will bid accordingly.</li>
-<li>Automatically get notified when you win an NFT via Telegram, Discord or Whatsapp/email.</li>
+<li>(IMPLEMENTED) Automatically get notified when you win an NFT via Telegram, Discord or Whatsapp/email. </li>
 <li>Advanced NFT analytics in give you an edge in bidding. (Liquidity, trends forecasting)</li>
-<li>List your NFT via your dashboard for sale.</li>
-<li>integrated Profit calculator in bidding module (implemented in march 2022)</li> 
+<li>(IMPLEMENTED)Trait based bidding.</li>
+<li>(IMPLEMENTED)integrated Profit calculator in bidding module </li> 
 <li>Overview stats for your dashboard keeping track of total profit, total flips etc.&nbsp;</li>
 <li>Automatically list your NFT for sale at floor price</li>
 <li>Get notified when any of your active bids are unprofitable, should it be accepted</li>
-<li>Quick swap from weth to eth, and vice versa.</li>
-<li>integration with Looksrare, Coinbase NFT and other platforms.</li>
-<li>Browser-based bid bot to run when API is down</li>
-<li>Counter bidding monitoring (outbid other bidders instantly)</li>
-<li>Permanently based collection bidding (setup bids to run continuously)</li>
-<li>Mobile integration. Access your dashboard from your mobile and start bids, sell NFTs directly.</li>
+<li>(IMPLEMENTED)Queue system so you can schedule bids to run later.</li>
+<li>(IMPLEMENTED)Dark mode interface.</li>
+<li>ETH locked display (see how many is tied up in active bids).</li>
+<li>(in Progress)Browser-based bid bot to run when API is down</li>
+<li>(in Progress)Counter bidding monitoring (outbid other bidders instantly)</li>
+<li>(in Progress)Permanently based collection bidding (setup bids to run continuously)</li>
+<li>(IMPLEMENTED)Mobile integration. Access your dashboard from your mobile and start bids, sell NFTs directly.</li>
 <li>AI-powered automation bidding such as:(whitelist collections and bot will spread bids according to highest returns)</li>
 </ul>
 <p>And much much more!<br /><br /></p>
