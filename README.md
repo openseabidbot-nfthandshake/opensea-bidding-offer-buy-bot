@@ -12,8 +12,8 @@
 <p>NFT Handshake is powered by secure dedicated servers and proxies. This gives us the ability to create an environment for you with no limitations.</p>
 <p><strong>Your server runs in the cloud 24/7 even when you are busy doing other things.</strong></p>
 <h3><strong>Get Access via Discord - open a ticket buy clicking "buy access here"</strong></h3>
-<p><a href="https://discord.gg/B9q7USMHnu" target="_blank">https://discord.gg/B9q7USMHnu</a><br /><a href="https://twitter.com/NFT_Handshake" target="_blank">https://twitter.com/NFT_Handshake</a></p>
-target="_blank">https://www.nfthandshake.com/ (full dox - founder profile included</a></p>
+<p><a href="https://discord.gg/B9q7USMHnu" target="_blank">https://discord.gg/B9q7USMHnu</a><br /><a href="https://twitter.com/NFT_Handshake" target="_blank">https://twitter.com/NFT_Handshake</a><br> 
+<a href="https://www.nfthandshake.com/" target="_blank">https://www.nfthandshake.com/</a> full dox - founder profile included</p>
 <h2 style="color: #2e6c80;">Features already included:</h2>
 <ul>
 <li style="clear: both;">All Bid functions: outbid, skip, fixed price, bid ranges</li>
