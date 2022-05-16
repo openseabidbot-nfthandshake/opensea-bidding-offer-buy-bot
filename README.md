@@ -19,6 +19,7 @@
 <li style="clear: both;">All Bid functions: outbid, skip, fixed price, bid ranges</li>
 <li>Your own online dashboard<br />4 threads(80-100 bids/min - possible to buy bigger plans)</li>
 <li style="clear: both;">Custom bid expirations</li>
+<li style="clear: both;">Counter Bidding - Monitor listings, outbid others outbidding you</li>
 <li style="clear: both;">Unlimited wallet support</li>
 <li style="clear: both;">Mobile integration (bid from your phone)</li>
 <li style="clear: both;">Queue bidding system</li>
@@ -75,7 +76,7 @@ Below you will find examples of flips our customers and myself have made. Keep i
 <li>(IMPLEMENTED)Dark mode interface.</li>
 <li>ETH locked display (see how many is tied up in active bids).</li>
 <li>(in Progress)Browser-based bid bot to run when API is down</li>
-<li>(in Progress)Counter bidding monitoring (outbid other bidders instantly)</li>
+<li>(IMPLEMENTED)Counter bidding monitoring (outbid other bidders instantly)</li>
 <li>(in Progress)Permanently based collection bidding (setup bids to run continuously)</li>
 <li>(IMPLEMENTED)Mobile integration. Access your dashboard from your mobile and start bids, sell NFTs directly.</li>
 <li>AI-powered automation bidding such as:(whitelist collections and bot will spread bids according to highest returns)</li>
